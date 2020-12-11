@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Pizzas y Algo Más...
+
+### Title
+tour.name = Tiro al Aire VR
+
+## Media
+
+### Title
+panorama_5F4CAF2A_542E_8E1B_41C8_77933E3BAD46.label = MAIN PANO
